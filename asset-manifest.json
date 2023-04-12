@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/RoosaKS/CarApp/static/css/main.0597ef04.css",
+    "main.js": "/RoosaKS/CarApp/static/js/main.53564cb1.js",
+    "static/js/787.22ea9dd3.chunk.js": "/RoosaKS/CarApp/static/js/787.22ea9dd3.chunk.js",
+    "index.html": "/RoosaKS/CarApp/index.html",
+    "main.0597ef04.css.map": "/RoosaKS/CarApp/static/css/main.0597ef04.css.map",
+    "main.53564cb1.js.map": "/RoosaKS/CarApp/static/js/main.53564cb1.js.map",
+    "787.22ea9dd3.chunk.js.map": "/RoosaKS/CarApp/static/js/787.22ea9dd3.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.0597ef04.css",
+    "static/js/main.53564cb1.js"
+  ]
+}
