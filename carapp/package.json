@@ -1,7 +1,7 @@
 {
   "name": "carapp",
   "version": "0.1.0",
-  "homepage": "https:///RoosaKS.github.io/CarApp",
+  "homepage": "https://RoosaKS.github.io/CarApp",
   "private": true,
   "dependencies": {
     "@emotion/styled": "^11.10.6",
